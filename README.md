@@ -4,7 +4,7 @@ This repository contains the code for our paper:
 
 ****
 ## Contents:
-* [File](#File)
+* [Dependencies](#Dependencies)
 * [Install](#Install)
 * [Usage](#Usage)
 
